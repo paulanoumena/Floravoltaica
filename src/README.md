@@ -24,3 +24,6 @@ This file contains all the functions necessary to perfom the NDVI calculation.
 
 #### segmentation.py
 This file contains a function to perform the segmentation of the plants. In this segmentation it is employed the resulting NDVI contrasted image which is binarized and used as a mask. Once the segmentation is performed it recalculates the NDVI.
+
+#### fastiecm.py
+This file contains a function to perfrom color mapping to represent the NDVI values on the image.
