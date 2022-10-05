@@ -12,6 +12,9 @@ Create a workon virtual environment.
 Configure python3 as the default python interpreter for this venv.
 
 ## Workflow
+
+![Floravoltaica Schema](https://github.com/paulanoumena/Florovoltaica/blob/main/src/Workflow%20of%20the%20code%20(1).png)
+
 #### calculate_ndvi.py
 This is the main code were you can find all the steps to perfom the NDVI calculation. 
 - Input: image taken by a without an infrared filter.
