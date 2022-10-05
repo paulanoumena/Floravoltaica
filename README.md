@@ -30,7 +30,7 @@ Finally, using the image of the NDVI contrasted it is posible to apply the color
 
 <img src="https://github.com/paulanoumena/Florovoltaica/blob/main/results/Image1/color_map.jpg" width="200">
 
-## Content
+## Brief explanation of the content of this repository
 - src: this folder contains all the code necessary for the correct execution of the NDVI algorithm
 - images: this folder contains images taken by a Noir pi camera
 - results: this folder contains images showing the steps of the NDVI calculation
